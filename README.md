@@ -16,9 +16,9 @@ This project was built using the following technologies: React, AJAX, HTML, CSS,
 
 ## Getting Started
 Register for OpenAI and grab a secret key (Its free!). 
-Create your .env file and add in your DATABASE_URL, OPENAI_API_KEY, and SECRET
-NPM install
-NPM run-script build
+Create your .env file and add in your DATABASE_URL, OPENAI_API_KEY, and SECRET.
+NPM install.
+NPM run-script build.
 
 in separate terminals: 
 NPM start
