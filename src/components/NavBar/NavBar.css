@@ -1,0 +1,22 @@
+.navigation {
+	display: flex;
+	justify-content: center;
+	margin: 0 12%;
+	float: right;
+}
+
+.NavBar-link {
+	margin: 0 10px;
+}
+
+.NavBar-welcome {
+	color: grey;
+}
+.NavBar {
+	background-color: bisque;
+}
+
+.header {
+	float: left;
+	margin: 0 12%;
+}

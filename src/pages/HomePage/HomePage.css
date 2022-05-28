@@ -1,0 +1,36 @@
+.HomePage-link-margin {
+	margin-bottom: 10px;
+}
+
+.HomePage {
+	display: flex;
+	flex-direction: column;
+	background-color: bisque;
+}
+
+.HomePage-controls {
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: space-between;
+	margin-left: 20px;
+}
+.flexBody {
+	display: flex;
+	flex-flow: row;
+	justify-content: space-evenly;
+
+	margin: 10% 20%;
+}
+
+.flexButtons {
+	display: flex;
+	flex-flow: row;
+	justify-content: space-between;
+	justify-items: auto;
+	margin: 10% 10%;
+}
+
+.boxItem {
+	height: 300px;
+	width: 300px;
+}
